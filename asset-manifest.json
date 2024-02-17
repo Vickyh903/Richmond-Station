@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Richmond-Station/static/css/main.3b93fa2d.css",
+    "main.js": "/Richmond-Station/static/js/main.a5433de9.js",
+    "static/media/meal.mp4": "/Richmond-Station/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/bg.png": "/Richmond-Station/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/laurels.png": "/Richmond-Station/static/media/laurels.e760828692795d4aafd7.png",
+    "static/media/findus.png": "/Richmond-Station/static/media/findus.d8a737afaf2d09613a0f.png",
+    "static/media/chef.png": "/Richmond-Station/static/media/chef.717b89c0ae625447610c.png",
+    "static/media/welcome.png": "/Richmond-Station/static/media/welcome.5881b36653f965cc9506.png",
+    "static/media/menu.png": "/Richmond-Station/static/media/menu.ccfdeb17d27826bc2150.png",
+    "static/media/gallery01.png": "/Richmond-Station/static/media/gallery01.9f7ddbe1597413869ae2.png",
+    "static/media/gallery03.png": "/Richmond-Station/static/media/gallery03.b81cb75a039c6eb06c34.png",
+    "static/media/gallery04.png": "/Richmond-Station/static/media/gallery04.a347dc16693289e4bedb.png",
+    "static/media/logo.png": "/Richmond-Station/static/media/logo.1721cc5c710b43ab0826.png",
+    "static/media/gallery02.png": "/Richmond-Station/static/media/gallery02.692c53456246ef4d5e16.png",
+    "static/media/knife.png": "/Richmond-Station/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/Richmond-Station/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/G.png": "/Richmond-Station/static/media/G.9e575452fd35c734c3ae.png",
+    "static/media/richmondStation.png": "/Richmond-Station/static/media/richmondStation.c073b3e649688baa86d4.png",
+    "static/media/award02.png": "/Richmond-Station/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/Richmond-Station/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/Richmond-Station/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/Richmond-Station/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "static/media/sign.png": "/Richmond-Station/static/media/sign.9bf0bd90ad4caa17991f.png",
+    "index.html": "/Richmond-Station/index.html",
+    "static/media/spoon.svg": "/Richmond-Station/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.3b93fa2d.css.map": "/Richmond-Station/static/css/main.3b93fa2d.css.map",
+    "main.a5433de9.js.map": "/Richmond-Station/static/js/main.a5433de9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b93fa2d.css",
+    "static/js/main.a5433de9.js"
+  ]
+}
