@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Richmond-Station/static/css/main.3b93fa2d.css",
-    "main.js": "/Richmond-Station/static/js/main.a5433de9.js",
+    "main.js": "/Richmond-Station/static/js/main.7cb0bd0a.js",
     "static/media/meal.mp4": "/Richmond-Station/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
     "static/media/bg.png": "/Richmond-Station/static/media/bg.3d421b1b5682e1b67deb.png",
     "static/media/laurels.png": "/Richmond-Station/static/media/laurels.e760828692795d4aafd7.png",
@@ -26,10 +26,10 @@
     "index.html": "/Richmond-Station/index.html",
     "static/media/spoon.svg": "/Richmond-Station/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
     "main.3b93fa2d.css.map": "/Richmond-Station/static/css/main.3b93fa2d.css.map",
-    "main.a5433de9.js.map": "/Richmond-Station/static/js/main.a5433de9.js.map"
+    "main.7cb0bd0a.js.map": "/Richmond-Station/static/js/main.7cb0bd0a.js.map"
   },
   "entrypoints": [
     "static/css/main.3b93fa2d.css",
-    "static/js/main.a5433de9.js"
+    "static/js/main.7cb0bd0a.js"
   ]
 }
